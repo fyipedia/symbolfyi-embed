@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# SymbolFYI Embed Widget
+# Main site: https://symbolfyi.com
+# Widget docs: https://widget.symbolfyi.com
+# npm: https://www.npmjs.com/package/symbolfyi-embed
